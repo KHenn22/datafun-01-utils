@@ -1,4 +1,4 @@
-# NWMU Data Analytics Fundamentals  
+# Northwest Missouri State University Data Analytics Fundamentals  
 **CC1.4: Start A Professional Python Project**
 
 ---
