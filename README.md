@@ -1,7 +1,7 @@
 
 # Data Analytics Fundamentals Utilities
 
-**Northwest Missouri State University — CC1.4: Start A Professional Python Project**
+**Northwest Missouri State University — Python and Analytics Project**
 
 ---
 
