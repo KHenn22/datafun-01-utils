@@ -90,3 +90,114 @@ Mean Satisfaction Score:    4.80
 2025-08-27 19:44:57 | INFO | __main__:177 | This module is organized like all Python modules.
 2025-08-27 19:44:57 | INFO | __main__:178 | We write professional Python from the start.
 2025-08-27 19:44:57 | INFO | __main__:179 | END main()...
+2025-08-27 19:52:53 | INFO | __main__:48 | Logger loaded.
+2025-08-27 19:52:53 | INFO | __main__:161 | STARTING main()..
+2025-08-27 19:52:53 | INFO | __main__:162 | Byline:
+
+**********************************************************
+Pithy Python — Project Header
+**********************************************************
+Author:                     Kevin Hennelly
+Motto:                      Squeezing Data Out of Your Numbers
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+**********************************************************
+
+2025-08-27 19:52:53 | INFO | __main__:173 | This module is organized like all Python modules.
+2025-08-27 19:52:53 | INFO | __main__:174 | We write professional Python from the start.
+2025-08-27 19:52:53 | INFO | __main__:175 | END main()...
+2025-08-27 20:03:31 | INFO | __main__:48 | Logger loaded.
+2025-08-27 20:03:31 | INFO | __main__:163 | STARTING main()..
+2025-08-27 20:03:31 | INFO | __main__:164 | Byline:
+
+**********************************************************
+Pithy Python — Project Header
+**********************************************************
+Author:                     Kevin Hennelly
+Motto:                      Squeezing Data Out of Your Numbers
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Hiring?:                    False
+Number of Employees:        25
+Location:                   Honolulu, HI
+Office Locations:          ['St Louis', 'Kansas City', 'Los Angeles', 'San Francisco']
+Number of Office Locations: 4
+Number of Services:        3
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+**********************************************************
+
+2025-08-27 20:03:31 | INFO | __main__:175 | This module is organized like all Python modules.
+2025-08-27 20:03:31 | INFO | __main__:176 | We write professional Python from the start.
+2025-08-27 20:03:31 | INFO | __main__:177 | END main()...
+2025-08-27 20:04:43 | INFO | __main__:48 | Logger loaded.
+2025-08-27 20:04:43 | INFO | __main__:163 | STARTING main()..
+2025-08-27 20:04:43 | INFO | __main__:164 | Byline:
+
+**********************************************************
+Pithy Python — Project Header
+**********************************************************
+Author:                     Kevin Hennelly
+Motto:                      Squeezing Data Out of Your Numbers
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Hiring?:                    False
+Number of Employees:        25
+Location:                   Honolulu, HI
+Office Locations:           ['St Louis', 'Kansas City', 'Los Angeles', 'San Francisco']
+Number of Office Locations: 4
+Number of Services:         3
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+**********************************************************
+
+2025-08-27 20:04:43 | INFO | __main__:175 | This module is organized like all Python modules.
+2025-08-27 20:04:43 | INFO | __main__:176 | We write professional Python from the start.
+2025-08-27 20:04:43 | INFO | __main__:177 | END main()...
+2025-08-27 20:10:20 | INFO | __main__:48 | Logger loaded.
+2025-08-27 20:10:20 | INFO | __main__:163 | STARTING main()..
+2025-08-27 20:10:20 | INFO | __main__:164 | Byline:
+
+**********************************************************
+Pithy Python — Project Header
+**********************************************************
+Author:                     Kevin Hennelly
+Motto:                      Squeezing Data Out of Your Numbers
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Hiring?:                    False
+Number of Employees:        25
+Location:                   Honolulu, HI
+Office Locations:           ['St Louis', 'Kansas City', 'Los Angeles', 'San Francisco']
+Number of Office Locations: 4
+Number of Services:         3
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+**********************************************************
+
+2025-08-27 20:10:46 | INFO | __main__:171 | Speech interrupted by user (Ctrl+C).
+2025-08-27 20:10:46 | INFO | __main__:175 | This module is organized like all Python modules.
+2025-08-27 20:10:46 | INFO | __main__:176 | We write professional Python from the start.
+2025-08-27 20:10:46 | INFO | __main__:177 | END main()...

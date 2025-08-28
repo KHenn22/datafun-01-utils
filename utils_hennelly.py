@@ -71,9 +71,7 @@ number_of_employees: int = 25  # Example of a new integer variable
 author: str = "Kevin Hennelly"  
 organization: str = "Pithy Python" 
 motto: str = "Squeezing Data Out of Your Numbers"
-
-# TODO: Declare and initialize a new string variable (e.g. `location` and set it to your city and state)
-
+location: str = "Honolulu, HI"  # Example of a string variable
 # ----------------------------------
 # Define List variables
 # ----------------------------------
@@ -83,9 +81,7 @@ services: list[str] = ["Data Analysis", "Machine Learning", "Business Intelligen
 # example list of floating point numbers
 satisfaction_scores: list[float] = [4.8, 4.6, 4.9, 5.0, 4.7]
 
-
-# TODO: Declare and initialize a new list variable (e.g. `office_locations` and set it to 3-5 cities where your org has offices)
-# TODO: Wrap each string in quotes and separate each item with a comma.
+office_locations: list[str] = ["St Louis", "Kansas City", "Los Angeles", "San Francisco"]  # Example of a new list variable
 
 # ----------------------------------
 # Use built-in Python operators (such as - + * /)
@@ -96,9 +92,7 @@ min_score: float = min(satisfaction_scores)
 max_score: float = max(satisfaction_scores)
 count_of_services: int = len(services)
 count_of_scores: int = len(satisfaction_scores)
-
-# TODO: Declare and initialize a new calculated variable (e.g. `count_of_locations` that uses the len() function on your list of office locations)
-
+count_of_locations: int = len(office_locations)  # Example of using len() on previously created list
 
 # ----------------------------------
 # Use the built-in statistics module functions (such as mean, stdev, etc.)
@@ -118,6 +112,12 @@ Motto:                      {motto}
 Years Active:               {years_active}
 Accepting New Clients?:     {is_accepting_clients}
 Remote Workshops?:          {offers_remote_workshops}
+Hiring?:                    {is_hiring}
+Number of Employees:        {number_of_employees}
+Location:                   {location}
+Office Locations:           {office_locations}
+Number of Office Locations: {count_of_locations}
+Number of Services:         {count_of_services}
 Services:                   {services}
 Client Satisfaction Scores: {satisfaction_scores}
 Minimum Satisfaction Score: {min_score}
@@ -126,8 +126,6 @@ Mean Satisfaction Score:    {mean_score:.2f}
      Standard Deviation:    {stdev_score:.2f}
 **********************************************************
 """
-
-# TODO: Modify the byline f-string to display your new variables as well. Use curly braces {} to embed each variable.
 
 #####################################
 # Define Global Functions
@@ -166,8 +164,7 @@ def main() -> None:
     loguru.logger.info("Byline:\n" + get_byline())
 
     try:
-        # TODO: Uncomment next line if you want audio feedback (use CTRL+C to stop)
-        # read_byline_aloud()
+        read_byline_aloud()
         pass
     except KeyboardInterrupt:
         logger.info("Speech interrupted by user (Ctrl+C).")
