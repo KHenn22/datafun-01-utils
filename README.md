@@ -58,13 +58,6 @@ To run the main utility script:
 ```bash
 python3 utils_hennelly.py
 ```
-
----
-
-## 💡 Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request.
-
 ---
 
 ## 📦 Version Control
